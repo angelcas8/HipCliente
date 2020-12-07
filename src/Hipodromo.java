@@ -22,7 +22,7 @@ class Caballo{
     metrosRecorridos = 0;
 
     while (true) {
-      System.out.println("Caballo " + nombre + " -> " + metrosRecorridos + " metros");
+      System.out.println("Caballo " + nombre + " -> " + metrosRecorridos + " mts");
       if ( metrosRecorridos++ == 50 ) {
 		break;
       }

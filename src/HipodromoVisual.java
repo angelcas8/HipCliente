@@ -187,7 +187,6 @@ public class HipodromoVisual extends BaseAppGUI{
 		theAppObject.startApplication();			
 	}	 
 }
-
 class BaseAppGUI{
         
 	protected FrameGUI frameGUI;
